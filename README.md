@@ -11,9 +11,8 @@ Libraries: NumPy, Pandas, Flask.
 C:
 
 System-level programming, memory management, algorithm optimization.
-HTML & CSS:
+HTML & CSS: Dynamic website development, responsive design.
 
-Dynamic website development, responsive design.
 Creative Skills
 Content Writing:
 Crafting engaging and clear content that resonates with target audiences.
