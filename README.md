@@ -18,6 +18,7 @@ Content Writing:
 Crafting engaging and clear content that resonates with target audiences.
 Logo Design:
 Merging visual aesthetics with brand identity for impactful logos.
+
 Projects
 1. Automated Data Analysis Tool
 Overview
